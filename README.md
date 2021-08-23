@@ -1,2 +1,2 @@
-# ML-
-It contains sales store prediction
+# Machine Learning Model
+It contains Big store sales prediction
